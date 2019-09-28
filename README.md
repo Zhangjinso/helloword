@@ -1,2 +1,2 @@
 # helloword
-test
+test for the class
